@@ -1,5 +1,5 @@
-# 📱 Rapport de Laboratoire : Reverse Engineering Android
-**Étudiant :** Ali  
+# 📱 Rapport de Laboratoire : Analyse statique d'un APK avec JADX GUI + dex2jar + JD-GUI
+**Étudiant :** Ali Benrioui  
 **Projet :** Analyse statique complète - OWASP UnCrackable Level 1  
 **Plateforme :** Mobexler Pentest VM  
 
